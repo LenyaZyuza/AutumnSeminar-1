@@ -4,6 +4,6 @@ Changes from local repository
 
 Changes from remote repository
 
-New Changes!
+Changes from Leo
 
 Changes from Sergey
